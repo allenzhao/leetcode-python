@@ -1,3 +1,7 @@
+# By Zehan Zhao <i@allenzhao.com>
+# Blog : http://blog.allenzhao.com
+# Blog post link: http://blog.allenzhao.com/leetcode/2014/09/14/LeetCode-Search-Inser-Position/
+# LeetCode Link: https://oj.leetcode.com/problems/search-insert-position/
 class Solution:
     # @param A, a list of integers
     # @param target, an integer to be inserted
