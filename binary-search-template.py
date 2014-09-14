@@ -11,7 +11,7 @@ class Solution:
         if not array:
             return -1
 
-        start, end = 0, len(array)
+        start, end = 0, len(array) - 1
 
         while start + 1 < end:
             mid = start + (start + end) / 2
