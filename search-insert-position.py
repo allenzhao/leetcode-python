@@ -1,6 +1,6 @@
 # By Zehan Zhao <i@allenzhao.com>
 # Blog : http://blog.allenzhao.com
-# Blog post link: http://blog.allenzhao.com/leetcode/2014/09/14/LeetCode-Search-Inser-Position/
+# Blog post link: http://blog.allenzhao.com/leetcode/2014/09/14/LeetCode-Search-Insert-Position/
 # LeetCode Link: https://oj.leetcode.com/problems/search-insert-position/
 class Solution:
     # @param A, a list of integers
